@@ -18,9 +18,10 @@ O objetivo desse projeto é ser uma ferramenta para auxilar o ensino infantil da
 - Para executar esse projeto na sua máquina você precisa ter o Python instalado em seu ambiente
 - Você precisará instalar a biblioteca do generativeai, usando o código:
   ```pip install -q -U google-generativeai```
-- Você vai precisar de uma ```API KEY``` que pode ser gerada gratuitamente no Google AI Studio: https://aistudio.google.com/app/apikey e com essa chave substituir o valor ```SECRET_KEY``` na linha 5 do código:
-  ```Python# Configurando a chave api_key
+- Você vai precisar de uma ```API KEY``` que pode ser gerada gratuitamente no Google AI Studio: https://aistudio.google.com/app/apikey com essa chave substituir o valor ```SECRET_KEY``` na linha 5 do código:
+  ```Python
+  # Configurando a chave api_key
   api_key = "SECRET_KEY"
   genai.configure(api_key=api_key)```
-- Apos baixar o arquivo principal, através do CMD / Prompt basta acessar o diretorio que o arquivo está localizado e executar o comando:
+- Apos baixar o arquivo principal e executar os passos anteriores, através do CMD / Prompt basta acessar o diretorio que o arquivo está localizado e executar o comando:
   ```python professora-virtual.py```
