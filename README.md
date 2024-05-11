@@ -1,4 +1,5 @@
-# Seja bem vindo ao T.IA, carinhosamente chamado de Tia, uma professora virtual que auxilia no ensino focado para crianças e jovens.
+# Seja bem vindo ao T.IA, carinhosamente chamado de Tia!
+## Uma professora virtual que auxilia no ensino focado para crianças e jovens.
 
 # Objetivo:
 O objetivo desse projeto é ser uma ferramenta para auxilar o ensino infantil das nossas crianças, sabemos que para os pais esse é um grande desafio, até por muitas das vezes por lembrar do conteúdo ensinado.
@@ -15,5 +16,7 @@ O objetivo desse projeto é ser uma ferramenta para auxilar o ensino infantil da
 
 # Execução:
 - Para executar esse projeto na sua máquina você precisa ter o Python instalado em seu ambiente
-- Você precisará instalar a biblioteca do generativeai, usando o código: pip install -q -U google-generativeai
-- Apos baixar o arquivo principal, basta acessar o diretorio que o arquivo está e executar o comando: python tia-professora-virtual.py
+- Você precisará instalar a biblioteca do generativeai, usando o código:
+  ```pip install -q -U google-generativeai```
+- Apos baixar o arquivo principal, através do CMD / Prompt basta acessar o diretorio que o arquivo está localizado e executar o comando:
+  ```python tia-professora-virtual.py```
