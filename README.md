@@ -15,4 +15,5 @@ O objetivo desse projeto é ser uma ferramenta para auxilar o ensino infantil da
 
 # Execução:
 - Para executar esse projeto na sua máquina você precisa ter o Python instalado em seu ambiente
-- Apos baixar o arquivo principal, basta acessar o diretorio que o arquivo está e executar o comando: python tia-professora-virtual.ipynb
+- Você precisará instalar a biblioteca do generativeai, usando o código: pip install -q -U google-generativeai
+- Apos baixar o arquivo principal, basta acessar o diretorio que o arquivo está e executar o comando: python tia-professora-virtual.py
