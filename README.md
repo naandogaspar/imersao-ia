@@ -19,4 +19,4 @@ O objetivo desse projeto é ser uma ferramenta para auxilar o ensino infantil da
 - Você precisará instalar a biblioteca do generativeai, usando o código:
   ```pip install -q -U google-generativeai```
 - Apos baixar o arquivo principal, através do CMD / Prompt basta acessar o diretorio que o arquivo está localizado e executar o comando:
-  ```python tia-professora-virtual.py```
+  ```python professora-virtual.py```
